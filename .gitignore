@@ -1,0 +1,2 @@
+# Exclude pipeline run artifacts — briefings and metadata are local only
+news_output/
